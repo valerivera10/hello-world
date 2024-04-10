@@ -26,3 +26,13 @@
    right: -780px;
    border-radius: 50%;
 }
+.descripcion {
+    display: flex;
+    width: 500px;
+    height: 20px;
+    font-size: 30px;
+    color: black;
+    position: relative;
+    top: 80px;
+    right: -750px;
+}
